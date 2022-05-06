@@ -18,5 +18,4 @@ Referensi belajar react
 ## Others
 - [React Security Vulnerabilities and How to Fix/Prevent Them](https://www.loginradius.com/blog/engineering/react-security-vulnerabilities/)
 - [How to Secure Your React.js Application](https://www.freecodecamp.org/news/best-practices-for-security-of-your-react-js-application/)
-- [7 React Security Vulnerabilities Every React Developer Should Know About
-Read more at: https://www.appknox.com/blog/7-react-security-vulnerabilities-every-react-developer-should-know-about](https://www.appknox.com/blog/7-react-security-vulnerabilities-every-react-developer-should-know-about)
+- [7 React Security Vulnerabilities Every React Developer Should Know About](https://www.appknox.com/blog/7-react-security-vulnerabilities-every-react-developer-should-know-about)
