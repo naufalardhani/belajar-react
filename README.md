@@ -13,3 +13,10 @@ Referensi belajar react
   - [React JS Hooks Redux](https://www.youtube.com/playlist?list=PLIan8aHxsPj082k6ZLyqJPCJESBG-C_Lw)
   - [React JS Hooks State Management](https://www.youtube.com/playlist?list=PLIan8aHxsPj3pHnuQRu8p20LzkPI0R0yk)
   - [CRUD React JS API dengan Redux](https://www.youtube.com/playlist?list=PLIan8aHxsPj1n-fDYopnjbaK55DhZqrmN)
+
+
+## Others
+- [React Security Vulnerabilities and How to Fix/Prevent Them](https://www.loginradius.com/blog/engineering/react-security-vulnerabilities/)
+- [How to Secure Your React.js Application](https://www.freecodecamp.org/news/best-practices-for-security-of-your-react-js-application/)
+- [7 React Security Vulnerabilities Every React Developer Should Know About
+Read more at: https://www.appknox.com/blog/7-react-security-vulnerabilities-every-react-developer-should-know-about](https://www.appknox.com/blog/7-react-security-vulnerabilities-every-react-developer-should-know-about)
