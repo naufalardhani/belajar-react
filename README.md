@@ -2,7 +2,7 @@
 Referensi belajar react
 
 ## Artikel
--[React JS Docs](https://id.reactjs.org/)
+- [React JS Docs](https://id.reactjs.org/)
 
 ## Youtube
 - [array id](https://www.youtube.com/channel/UCQzfClEEDfuVuES-GQUy6aw/)
